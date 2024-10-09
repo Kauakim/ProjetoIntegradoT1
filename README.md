@@ -1,5 +1,8 @@
-# Projeto Integrado de Telecomunicações
-## Visão Geral
+# ProjetoIntegradoT1
+
+Desenvolvido por: Victor Alberti, Kauã Ribeiro, Júlio Magalhães e Samuel Farias
+
+## Descrição do Projeto
 Este projeto foi desenvolvido como parte de uma avaliação escolar no curso de telecomunicações em 2024. Ele utiliza um ESP32 para gerenciar a comutação de rotas através do CI MT8816, controlando a transmissão de dados via broadcast entre diferentes terminais. O projeto também coleta dados meteorológicos de uma API externa e realiza a escolha automática da rota de comunicação com base nos custos e condições climáticas.
 
 ## Funcionalidades
